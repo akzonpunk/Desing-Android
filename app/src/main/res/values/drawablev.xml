@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="image_database" type="drawable">@drawable/database</item>
+    <item name="image_file" type="drawable">@drawable/file</item>
+    <item name="image_logo" type="drawable">@drawable/logovitarrico</item>
+    <item name="image_carrito" type="drawable">@drawable/carrito</item>
+    <item name="image_comprar" type="drawable">@drawable/comprar</item>
+    <item name="image_establecimiento" type="drawable">@drawable/establecimiento</item>
+    <item name="image_granola" type="drawable">@drawable/granola</item>
+    <item name="image_productos" type="drawable">@drawable/productos</item>
+    <item name="image_vender" type="drawable">@drawable/vender</item>
+    <item name="image_zumo" type="drawable">@drawable/zumo</item>
+    <item name="backgroun" type="drawable">@drawable/backgroun</item>
+    <item name="img_phone" type="drawable">@android:drawable/stat_sys_phone_call</item>
+</resources>

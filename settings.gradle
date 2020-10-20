@@ -1,0 +1,3 @@
+include ':libraryUtil'
+include ':app'
+rootProject.name = "VitarricoV1"
